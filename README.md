@@ -7,7 +7,7 @@ This project reads integers from an input file, inserts them into a sorted linke
 
 ## Files
 
-- `main.py`: Contains the implementation of the `Node` class, `SortedLinkedList` class, and the `process_file` function.
+- `unique_int.py`: Contains the implementation of the `Node` class, `SortedLinkedList` class, and the `process_file` function.
 
 ## Usage
 
